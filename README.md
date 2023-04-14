@@ -1,9 +1,9 @@
-# ManishGarageApp
 Android Developer Task - Scouto
+Garage Application
 
 
 
-https://user-images.githubusercontent.com/119126206/231004573-9dde58cb-d74f-4477-8f5b-a3a33b5f01f8.mp4
+
 
 
 
